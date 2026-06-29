@@ -11,7 +11,7 @@
    ============================================================ */
 const API_BASE = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
   ? 'http://localhost:5000'
-  : 'https://arati-precision-backend.onrender.com';  // ← update after Render deploy
+  : 'https://arati-precision-website.onrender.com';  // Render backend URL
 
 /* ============================================================
    NAVBAR — scroll effect, hamburger, active links
